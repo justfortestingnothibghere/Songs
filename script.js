@@ -84,7 +84,7 @@ function toggleSupport() {
 async function shareLink() {
     const shareData = {
         title: document.title,
-        text: 'Watch this video on AV BOTZ',
+        text: 'Watch this video on @TEAM_X_OG,s WEB',
         url: window.location.href
     };
     try {
